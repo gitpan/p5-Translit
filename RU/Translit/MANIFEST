@@ -1,0 +1,6 @@
+Changes
+MANIFEST
+Makefile.PL
+Translit.pm
+Translit.xs
+test.pl
